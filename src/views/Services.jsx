@@ -37,7 +37,7 @@ const Services = () => {
                 variants={{
                   visible: { opacity: 1, scale: 1 },
                   hidden: { opacity: 0, scale: 0 },
-                }}
+                }} 
                 className={
                   theme.state.darkMode
                     ? "sm:w-96 p-4 bg-white rounded-lg flex items-center flex-col mt-8"
