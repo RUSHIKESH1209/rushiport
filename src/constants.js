@@ -99,7 +99,7 @@ export const projectData = [
   },
   {
     name: "Forever",
-    description: "An e-commerce website built using React, Redux, and Node.js.",
+    description: "An e-commerce website built using React, and Node.js.",
     image: ForeverImg,
     tech: [
       { url: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" },
@@ -113,7 +113,7 @@ export const projectData = [
   },
   {
     name: "Chess",
-    description: "A chess game built using pure HTML, CSS, and JavaScript.",
+    description: "A chess game built using vanilla JavaScript.",
     image: ChessImg,
     tech: [
       { url: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" },
@@ -125,7 +125,7 @@ export const projectData = [
   },
   {
     name: "Memotag",
-    description: "A productivity app to manage tags and notes efficiently.",
+    description: "A Healthcare device that helps dementia patients remember their daily tasks.",
     image: MemotagImg,
     tech: [
       { url: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" },
@@ -136,7 +136,7 @@ export const projectData = [
   },
   {
     name: "Music Player",
-    description: "A sleek and modern music player built with HTML, CSS, and JavaScript.",
+    description: "A sleek and modern music player built with playlist functionality.",
     image: MusicImg,
     tech: [
       { url: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" },
@@ -148,7 +148,7 @@ export const projectData = [
   },
   {
     name: "Tic Tac Toe",
-    description: "A classic Tic Tac Toe game with a responsive UI made in pure JS.",
+    description: "A classic Tic Tac Toe game with a responsive UI.",
     image: TicTacToeImg,
     tech: [
       { url: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" },
