@@ -2,7 +2,7 @@
 
 This is my personal portfolio website built with **React.js**. It showcases who I am, what I do, and how to contact me.
 
-![Screenshot](<img width="1919" height="909" alt="Screenshot 2025-07-26 231910" src="https://github.com/user-attachments/assets/481e43da-32e4-4776-9fd4-95b7093f1e5f" />
+![Screenshot](https://github.com/user-attachments/assets/481e43da-32e4-4776-9fd4-95b7093f1e5f" 
 )
 
 ## 🚀 Live Preview
