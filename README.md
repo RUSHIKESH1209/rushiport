@@ -1,12 +1,34 @@
-# React + Vite
+# 💼 Rushikesh's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with **React.js**. It showcases who I am, what I do, and how to contact me.
 
-Currently, two official plugins are available:
+![Screenshot](<img width="1919" height="909" alt="Screenshot 2025-07-26 231910" src="https://github.com/user-attachments/assets/481e43da-32e4-4776-9fd4-95b7093f1e5f" />
+)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Preview
 
-## Expanding the ESLint configuration
+🌐 [View Live Site](https://portfolio-indol-gamma-1ayk96irwf.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features
+
+- 📄 Resume download button
+- 🌙 Light/Dark mode toggle
+- 📱 Responsive design for all devices
+- 📧 Contact form using **EmailJS**
+- 🔗 Social links with icons
+- ✨ Animated illustrations
+- ⚡ Fast and smooth scroll navigation
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Framer Motion** (animations)
+- **EmailJS** (email service)
+- **Netlify/Vercel** (for deployment)
+
+---
